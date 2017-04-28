@@ -5,13 +5,13 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: 5.0.1
 
 * System dependencies
 
 * Configuration
 
-* Database creation
+* Database creation: rails db:migrate
 
 * Database initialization
 
