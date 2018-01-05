@@ -3,6 +3,7 @@
 
 source 'https://rubygems.org'
 
+gem 'bcrypt',       '3.1.11'
 gem 'rails',        '5.0.1'
 gem 'puma',         '3.4.0'
 gem 'sass-rails',   '5.0.6'
